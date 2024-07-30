@@ -8,6 +8,7 @@ metadata:
     jenkins.io/job-full-name: Test_Template4/main
     sonarqube.org/project-key: Test_Template4
     dependencytrack/project-id: fa3f8da3-e3aa-44f7-b514-1708cdaedfc2
+    jira/project-key: BAC
 spec:
   type: service
   owner: group:default/admins
