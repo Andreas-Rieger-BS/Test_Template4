@@ -1,3 +1,3 @@
-# Hello from a md file
+# example docs
 
-This is a testfile
+This is a basic example of documentation.
