@@ -9,7 +9,7 @@ metadata:
     sonarqube.org/project-key: Test_Template4
     dependencytrack/project-id: fa3f8da3-e3aa-44f7-b514-1708cdaedfc2
     jira/project-key: BAC
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir:./docs
 spec:
   type: service
   owner: group:default/admins
