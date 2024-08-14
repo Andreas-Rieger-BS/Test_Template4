@@ -1,5 +1,5 @@
 site_name: example-docs
 nav:
-  - Home: index.md
+  - Home: indeex.md
 plugins:
   - techdocs-core
