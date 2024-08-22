@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: test_resource
+  description: Test Resource
+spec:
+  type: database
+  owner: admins
+  system: test_system
