@@ -5,5 +5,4 @@ metadata:
   description: Test_System
 spec:
   owner: admins
-  domain: test_domain
   type: service
