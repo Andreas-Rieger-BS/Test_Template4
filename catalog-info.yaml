@@ -15,5 +15,5 @@ spec:
   owner: group:default/admins
   lifecycle: production
   targets:
-    - ./api.xaml
+    - ./api.yaml
 
