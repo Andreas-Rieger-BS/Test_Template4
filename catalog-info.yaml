@@ -18,6 +18,4 @@ spec:
     - test_api
   consumesApis: 
     - test_api
-  targets:
-    - ./api.yaml
 
