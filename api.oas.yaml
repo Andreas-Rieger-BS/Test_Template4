@@ -11,7 +11,7 @@ paths:
           application/json:
             schema:
               $ref: '#/components/schemas/New'
-            application/xml:
+          application/xml:
             schema:
               $ref: '#/components/schemas/New'  
       responses:
