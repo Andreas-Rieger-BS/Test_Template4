@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: backstage
+  name: test_domain
   description: Everything related to Backstage
   title: Artists
   links:
