@@ -14,6 +14,10 @@ spec:
   type: service
   owner: group:default/admins
   lifecycle: production
+  providesApis: 
+    - test_api
+  consumesApis: 
+    - test_api
   targets:
     - ./api.yaml
 
