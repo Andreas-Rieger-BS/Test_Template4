@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: test_system
+  description: Test_System
+spec:
+  owner: admins
+  domain: backstage
+  type: service
